@@ -128,9 +128,9 @@ CREATE TABLE items (
                     List of relations
  Schema |         Name         |   Type   |   Owner
 --------+----------------------+----------+------------
- public | evens                | sequence | gcpinckert
- public | items                | table    | gcpinckert
- public | items_id_seq         | sequence | gcpinckert
- public | odds                 | sequence | gcpinckert
- public | rhymes               | table    | gcpinckert */
+ public | evens                | sequence | mkalisz
+ public | items                | table    | mkalisz
+ public | items_id_seq         | sequence | mkalisz
+ public | odds                 | sequence | mkalisz
+ public | rhymes               | table    | mkalisz */
 ```
