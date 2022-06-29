@@ -52,4 +52,3 @@ INSERT INTO public.weather VALUES ('2016-03-03', 31, 47, 0.157);
 --
 -- PostgreSQL database dump complete
 --
-
